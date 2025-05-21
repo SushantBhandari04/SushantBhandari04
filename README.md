@@ -43,4 +43,8 @@
 - 💼 LinkedIn: [linkedin.com/in/sushant-bhandari-00a7a0310](https://www.linkedin.com/in/sushant-bhandari-00a7a0310) 
 - 🐦 Twitter/X: [@Sushaant04](https://x.com/Sushaant04)  
 
-<p align="center" style="margin-top: 20px">Thank you for visiting!</p>
+---
+
+<div align="center">
+  <strong>Thank you for visiting!</strong>
+</div>
