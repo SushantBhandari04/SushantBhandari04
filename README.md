@@ -32,8 +32,8 @@
 
 - 🍽️ [**Foodiez**](https://foodiez-project.vercel.app/): A self-service restaurant management system for browsing menus, ordering food, and reserving tables.
 - 💬 [**JobMatch**](https://job-match-fe-omega.vercel.app/): A job match platform powered by AI where user can see job matches based on it's profile.
-- 📚 [**ChatPDF AI**](https://chat-with-pdf-flax.vercel.app): A Next.js-based AI SaaS app integrated with Pinecone and firebase for advanced PDF interaction—upload documents and ask questions in real time.
-- 🌐 [**Portfolio**](https://sushantbhandari.vercel.app): A personal portfolio built with modern web technologies to showcase projects, skills, and contact information in a sleek, responsive design.
+- 📚 [**ChatPDF AI**](https://chat-with-pdf-flax.vercel.app): An AI SaaS app for chatting with PDF.
+- 🌐 [**Portfolio**](https://sushantbhandari.vercel.app): A personal portfolio built to showcase projects, skills, and contact information.
 - 🧠 [**Braincache**](https://github.com/SushantBhandari04/My-Projects/tree/master/BrainCache): A second brain app to capture, organize, and retrieve your thoughts and documents effortlessly.
 - 📄 [**Payment App**](https://github.com/SushantBhandari04/My-Projects/tree/master/Week%2021%20offline%20-%20Paytm%20project): A payment app where user can send money and receive money from other users.
 
@@ -41,7 +41,7 @@
 
 ## 📫 Get in Touch
 
-- 📧 Portfolio: [https://sushantbhandari.vercel.app](https://sushantbhandari.vercel.app)  
+- 🌐 Portfolio: [https://sushantbhandari.vercel.app](https://sushantbhandari.vercel.app)  
 - 📧 Email: [sushbh2004@gmail.com](mailto:sushbh2004@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sushant-bhandari-00a7a0310](https://www.linkedin.com/in/sushant-bhandari-00a7a0310) 
 - 🐦 Twitter/X: [@Sushaant04](https://x.com/Sushaant04)  
