@@ -44,7 +44,6 @@
 - 🌐 Portfolio: [sushantbhandari](https://sushantbhandari.vercel.app)  
 - 📧 Email: [sushbh2004@gmail.com](mailto:sushbh2004@gmail.com)  
 - 💼 LinkedIn: [sushant-bhandari](https://www.linkedin.com/in/sushant-bhandari-00a7a0310) 
-- 🐦 Twitter/X: [@Sushaant04](https://x.com/Sushaant04)  
 
 ---
 
